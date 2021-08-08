@@ -1,0 +1,6 @@
+const types = {
+  REQUEST_RANDOM_QUOTES: 'REQUEST_RANDOM_QUOTES',
+  RECEIVE_RANDOM_QUOTES: 'RECEIVE_RANDOM_QUOTES'
+}
+
+export default types
